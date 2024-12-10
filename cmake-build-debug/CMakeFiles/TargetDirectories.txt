@@ -1,0 +1,3 @@
+C:/Users/3com/CLionProjects/Must_first project/cmake-build-debug/CMakeFiles/Must_first_project_.dir
+C:/Users/3com/CLionProjects/Must_first project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/3com/CLionProjects/Must_first project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

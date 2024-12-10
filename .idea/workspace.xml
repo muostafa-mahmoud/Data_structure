@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37e6f744-9004-4913-b8b3-c3ce2f150c9d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2niWOaSs5xgoHgK48gZOY7ho9ot" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Graph_colouring.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.Postofix_expression.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.Queue as a linked list .cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.Stack as a linked list .cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.Stack_as_a_queue.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.converting_infix_to_postfix.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.main.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/3com/CLionProjects/Must_first project/Postofix_expression.cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.Postofix_expression.cpp">
+    <configuration name="Graph_colouring.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="Graph_colouring.cpp" CONFIG_NAME="Graph_colouring.cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\Graph_colouring.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Postofix_expression.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="Postofix_expression.cpp" CONFIG_NAME="Postofix_expression.cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\Postofix_expression.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue as a linked list .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="Queue as a linked list .cpp" CONFIG_NAME="Queue as a linked list .cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\Queue as a linked list .cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack as a linked list .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="Stack as a linked list .cpp" CONFIG_NAME="Stack as a linked list .cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\Stack as a linked list .cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack_as_a_queue.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="Stack_as_a_queue.cpp" CONFIG_NAME="Stack_as_a_queue.cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\Stack_as_a_queue.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="converting_infix_to_postfix.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Must_first project" TARGET_NAME="converting_infix_to_postfix.cpp" CONFIG_NAME="converting_infix_to_postfix.cpp">
+      <option name="sourceFile" value="C:\Users\3com\CLionProjects\Must_first project\converting_infix_to_postfix.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.Graph_colouring.cpp" />
+      <item itemvalue="C/C++ File.Postofix_expression.cpp" />
+      <item itemvalue="C/C++ File.Queue as a linked list .cpp" />
+      <item itemvalue="C/C++ File.Stack as a linked list .cpp" />
+      <item itemvalue="C/C++ File.Stack_as_a_queue.cpp" />
+      <item itemvalue="C/C++ File.converting_infix_to_postfix.cpp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37e6f744-9004-4913-b8b3-c3ce2f150c9d" name="Changes" comment="" />
+      <created>1729456347630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729456347630</updated>
+      <workItem from="1729456349736" duration="2525000" />
+      <workItem from="1729524920371" duration="1170000" />
+      <workItem from="1729766263278" duration="4000" />
+      <workItem from="1729960229945" duration="34000" />
+      <workItem from="1731398506823" duration="26000" />
+      <workItem from="1731398560252" duration="1963000" />
+      <workItem from="1731517039794" duration="12000" />
+      <workItem from="1731674953092" duration="309000" />
+      <workItem from="1733335272247" duration="1368000" />
+      <workItem from="1733494991082" duration="4000" />
+      <workItem from="1733495318377" duration="5000" />
+      <workItem from="1733599927963" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
